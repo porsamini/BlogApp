@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "myblog-1469835475066",
+  "private_key_id": "0c2be6226abb29f102bcd3a0caafe059f6499e3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDui5tOzoRps7oV\n+AxBisYJZLVZXVXBvGCRTx3kyj2BcYtBdnO38o/kd/4E8OyLUBo4fubKQB4ku+AU\nnktjLdHFiIaeDCZC1HqGwCtoWnUYhzGpR9IjVrVFwtQn0GgZa7O6iueecSNdqbwj\nUgmyzlxnHCMzm6MvKELSgZ7gQq8OzHkv3nZmOGS2JeNWnHa6+2CTPbAASToNJBVs\nKIxVvE6mIGtFbHNAqiizeM3XSf7XL4e3vqIozxNOt8qblxNrwgKNEdAoEUaDX8ZU\n7KBW+hUcovG8XWn49JM52JBSFd4Z+Aa6xIrCewjVZFdVNloVhunVmH5yOxvu3V08\nE3SW8dv9AgMBAAECggEAPTJplI0coTVvfuVU15eveIdyksuEDaCzMXQXmjNcFhI4\nBIJL65v52EYET+Yy+QaCw42iza4nTYs5UHDPrFD76O4+gtthEXILQPiZ6jqSoclF\nL0VynohHFu+Fl/U6T5M215t9EkO6K/Q4hOMuA8Y3JGiuizXZZmawxeplBOl2mZfS\ni1hT9jMu9AqOjxSTnas3cPCBlB2oMCac3HBCzgtjVlVsKSvIuadisLOF17kZeo2b\niekxtRhs0VHn+oD0yuYhh86hDcFedLUyud1uG3TOCW7o8qsyPpZCIdfZPuv5NVXl\nEQ0f2tA8iBybfqb7vH8DpeO/xmLAuQwnXMpzqDaYgQKBgQD7QK5F7ygGa/1vzaYW\nWr4vIxTuGpDcZuAzGIT1c1o1jnXOJIqUdNVcNQGF5aPjBVkLiEAAsrr3kbBOSH5N\nwmA2TFS6RYGybl4PKCheLPDDBl2hfaiKqHsovRlZokDKbfKnbv3Og3yUbyIxGLRp\nNUOzRxbNiMccxRPTFyJNGYM5HQKBgQDzDXXIvEPsGqjMzBPzWg9Iu2SqQbLhNS6w\nWmmx+4TWsdoNK3sMcCL+8+NVefSofFNW51N0ZvTxAIQ3DcmfCOHzgdvvpVg6QshC\nkiA16KQHGAHisrLJoqiD5gG4hm2731Ed9fFTI8h8xMQYwdJn9Cbj1WTvBJvbiWUp\nWfpjypCYYQKBgBVmZvGR8yjI3ec97t2MkRJWvJujK596K7JubjSxxIc3QRVzy1Hl\nuZ6G7UBIVPMrK3BuBHWKw53+jLO+PPPGkIdPbRAIh4l5GQ3Vb8rFrSQPUL5Gg6p7\nuzG3GYem6DnVr4tPStLiJCRIavMflY44eTG15l1PPxZWOuAJ4mQKvkCJAoGBAKGS\n7hz+wqx/YH2coRqiYQy5vobMXA0InLwRrrfp+3n6C3m70PYIycrw+MyG4VTsKT7Z\nUwpLs0NPU5WBrenyLrsBNeNO6KL6aESQ/aa4u+oXVJGOt/oBDsN4MOapPuOo5jTj\nnYTmgc4nxDCtEKGYlg3Ze1rFlpLP+JcPwLt8GrmhAoGAGrTWyMylTEZJeRPQJUQo\ns9fHgaaPlDl2mkUOVOYwzCjaUyCUMerbXTl+f77RB4HeEtdFPg+hYqsJHuwuMqdU\nXwhbM0ureSPr1qN7mYC00u5/6vxVu5vdL5RKhx07if0ZTEdRriqM0wW3JP1ZtTKo\nA2LVM3oRd4w5dhnEZUqJYt8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myblog-1469835475066@appspot.gserviceaccount.com",
+  "client_id": "101793040238913250599",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myblog-1469835475066%40appspot.gserviceaccount.com",
+  "clientID": "1000757301312-j6dbp6np8rrf3kobpehctqmcsi853b0f.apps.googleusercontent.com",
+  "clientSecret": "NA_ffbY7fXKbBOxjDBRtVTm5"
+}
